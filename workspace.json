@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "back-health-condo": "apps/back-health-condo",
+    "back-health-condo-e2e": "apps/back-health-condo-e2e",
     "health-condo": "apps/health-condo",
     "health-condo-e2e": "apps/health-condo-e2e"
   }
